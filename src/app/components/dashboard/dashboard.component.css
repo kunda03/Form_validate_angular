@@ -1,0 +1,39 @@
+.navbar{
+    height:80px;
+    width: 100%;
+    margin: auto;
+    background-color: black;
+    
+
+}
+.navbar ul{
+    text-align: center;
+    margin: auto;
+}
+
+.navbar ul li{
+    display:inline;
+    color: white;
+    margin: 10px;
+    
+} 
+
+.img img{
+    width: 100%;
+    height: 91vh;
+}
+
+button
+{
+    border-radius: 15px;
+    border: 2px solid blue;
+    padding: 10px;
+    margin-left:1000px;
+
+
+}
+button:hover{
+    color: white;
+    background-color: black;
+   
+}
