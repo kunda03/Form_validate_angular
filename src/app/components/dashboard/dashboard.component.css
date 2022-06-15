@@ -1,39 +1,62 @@
-.navbar{
-    height:80px;
+.navbar {
+    height: 80px;
     width: 100%;
     margin: auto;
     background-color: black;
-    
+
 
 }
-.navbar ul{
+
+.navbar ul {
     text-align: center;
     margin: auto;
 }
 
-.navbar ul li{
-    display:inline;
+.navbar ul li {
+    display: inline;
     color: white;
     margin: 10px;
-    
-} 
 
-.img img{
+}
+
+.img img {
     width: 100%;
     height: 91vh;
 }
 
-button
-{
+button {
     border-radius: 15px;
     border: 2px solid blue;
     padding: 10px;
-    margin-left:1000px;
+    margin-left: 1000px;
 
 
 }
-button:hover{
+
+button:hover {
     color: white;
     background-color: black;
-   
+
+}
+
+/* Dashboard */
+
+.card-header {
+    height: 50px;
+}
+.right{
+    margin-left: 112px;
+}
+.row1{
+    margin-top: 15px;
+    background-color: #DAE5D0;
+    height: 55px;
+}
+.img{
+    width: 600px;
+}
+select{
+    width: auto;
+    margin-left: 400px;
+    height: 35px;
 }
